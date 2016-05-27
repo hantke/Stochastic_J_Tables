@@ -89,7 +89,7 @@ def main():
 	#Here we read the tables and load them in a numpy 3D and 4D array
 	#The tables give the median angle and change in direction
 	#in function of the Halo mass, the change of mass of the halo
-	#in a timelap, and the change of redshift of the timelap.
+	#in a time lapse, and the change of redshift of the time lapse.
 	
 	#To get the index, run the 'Get_Index' Function, as:
 	#Get_Index(Prop,X_Min,X_Max,NBin)
