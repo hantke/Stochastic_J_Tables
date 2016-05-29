@@ -9,9 +9,9 @@ random: a random value between 0_2pi, that fix the orientation of the change of 
 
 Return a 3d array with new values of the vector J
 
-For python users. Please run: 
+For python users. Please run: python setup.py build
 and copy build/lib.linux-x86_64-2.7/RandomAngle.so in your main folder. This create a function in
-python that imported as: python setup.py build
+python that imported as: 
 "from RandomAngle import RandomAngle"
 in yout code, and work as the C module explain above.
 (you may need to install python-dev)
