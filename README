@@ -5,6 +5,9 @@ of its mass, its change of mass and the time lapse.
 For future reference, please go to Contreras et al. 2016 (in prep)
 ####################################################################################################################
 
+For a basic example of the code, please check ChangeAng/Example.py
+
+####################################################################################################################
 To print the tables in ascii run:
 python Read_Tables.py Print
 
